@@ -4,9 +4,38 @@ Economy & Demographics
 Demographics
 rent vs buying trend
 Age wise spending and other income
-Migration
+Migration 
 
+Economy
+Mortgage rate
+Housing Bond market as indicator
+Income - per capita and GDP
+Inflation
+unemployment rate
+money flowing in which sectors
+ML model use takes all above parameters as input
 
 
 Micro-factors
 Govt. policies and architecture + city variation
+
+City- variation
+Heatmap
+County or Neighborhoodwise
+rental income areas eg. near universities
+speciality
+random jackpot - eg. airport
+main trade highways
+other factors
+Complex ML model
+
+Govt. Policies
+rent
+condo
+max height rule
+etc. 
+- This part will be quite volatile. but hopefully it won't have much weightage
+
+Finally, 2 different equation suggesting whether and where should new property be bought
+1 for retail buyers
+2 for Corporate buyers or investors
