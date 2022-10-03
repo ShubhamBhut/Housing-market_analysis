@@ -3,6 +3,7 @@ Economy & Demographics
 
 Demographics
 Demand
+Condo and apartments vs tenaments
 rent vs buying trend
 Age wise spending and other income
 Migration 
@@ -29,6 +30,7 @@ speciality
 random jackpot - eg. airport
 main trade highways
 other factors
+Preffered house architecture per county/ neighborhood
 Complex ML model
 
 Govt. Policies
